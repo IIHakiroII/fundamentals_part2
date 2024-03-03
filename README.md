@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **César José Malavé Lara**
+👤 **César Malavé**
 
 - GitHub: [@IIHakiroII](https://github.com/IIHakiroII)
 - Twitter: [@IIHakiroII](https://twitter.com/IIHakiroII)
